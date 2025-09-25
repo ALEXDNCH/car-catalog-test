@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "image": "https://avatars.mds.yandex.net/get-verba/1030388/2a000001786ab6d740f53ca6259ae80885c7/auto_main"
+  },
+  {
+    "id": 2,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2021,
+    "image": "https://apiweb.rolf.ru/storage/thumbnails/large/vehicles/used/5806725/0b062cec2b2586dd1ad175c3722803c4.jpg"
+  },
+  {
+    "id": 3,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2019,
+    "image": "https://s.auto.drom.ru/i24222/c/photos/generations/500x_bmw_x5_g8395.jpg?816434"
+  },
+  {
+    "id": 4,
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2020,
+    "image": "https://s1.avilon.ru/upload/lp/bmw/3ser/bg1.jpg"
+  },
+  {
+    "id": 5,
+    "make": "Audi",
+    "model": "A4",
+    "year": 2022,
+    "image": "https://images.ctfassets.net/c9t6u0qhbv9e/1dmh0BitQXZSBzS3d5kdoX/ae7b76a7a9e79fed2a83caa74b829fbe/2022_Audi_A4_Review_Lead_In.jpeg"
+  },
+  {
+    "id": 6,
+    "make": "Audi",
+    "model": "Q5",
+    "year": 2021,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT6WvhWeyBE-gsj_WRTUfqPmelHxVgCo-8Bg&s"
+  },
+  {
+    "id": 7,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2018,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuKdIgG4yknMqeXiQOWG-TRslI3OdkL5liYg&s"
+  },
+  {
+    "id": 8,
+    "make": "Mercedes-Benz",
+    "model": "GLC",
+    "year": 2020,
+    "image": "https://topruscar.ru/assets/images/kt/kt2020_mercedes-benz-glc_001.jpg"
+  },
+  {
+    "id": 9,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczfsVtflIoHBiDAHonypJ-5E9Fye0jXtGNw&s"
+  },
+  {
+    "id": 10,
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2022,
+    "image": "https://s.auto.drom.ru/i24272/c/photos/generations/500x_honda_cr-v_g15974.jpg?1084305"
+  },
+  {
+    "id": 11,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": 2018,
+    "image": "https://file.kelleybluebookimages.com/kbb/base/evox/StJ/12704/2018-Volkswagen-Golf-front-angle6_12704_116_640x480.jpg"
+  },
+  {
+    "id": 12,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "year": 2020,
+    "image": "https://avatars.mds.yandex.net/get-verba/937147/2a00000190ba2b121eb434110534d48812df/auto_main"
+  },
+  {
+    "id": 13,
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2019,
+    "image": "https://topruscar.ru/assets/images/kt/kt2019_ford-focus_001.jpg"
+  },
+  {
+    "id": 14,
+    "make": "Ford",
+    "model": "Kuga",
+    "year": 2021,
+    "image": "https://news.store.rambler.ru/img/e9b008d3b2e011f685fdb5c8dec4ed23?img-format=auto&img-1-resize=height:400,fit:max&img-2-filter=sharpen"
+  }
+]
